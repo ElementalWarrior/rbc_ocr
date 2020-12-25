@@ -6,6 +6,12 @@ I give no guarantee about accuracy of the output files vs the input. This uses c
 
 I really only run it yearly to do an audit for taxes. I can't quite recall what the proper requirments.txt values are. As well as I think there are some specific libraries needed outside of pip for the ocr.
 
+Create a virtualenv:
+
+    virtualenv -p python2 venv
+
+You'll need to install some packages. Not exactly sure the minimal set that is required, see below.
+
 Usage:
 
     rbc_ocr.py "PATH/TO/PDF/FILE"
