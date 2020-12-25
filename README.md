@@ -9,7 +9,7 @@ I really only run it yearly to do an audit for taxes. I can't quite recall what 
 ## Setup:
 
     virtualenv -p python3 venv
-    pip install -r requiremnts
+    pip install -r requirements.txt
 
 ## Usage:
 
